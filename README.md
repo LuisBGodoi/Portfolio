@@ -23,9 +23,10 @@ On going graduation in civil engineering on Universidade Presbiteriana Mackenzie
 ## Projects:
 Here are the list of my projects:
 
-* **Investigating Netflix Movies and Guest Stars in The Office** https://bit.ly/3OxMVKA
-* **The GitHub History of the Scala Language** https://bit.ly/3vj1knk
-* **The Android App Market on Google Play** https://bit.ly/3Bminsq
-* **Population Economic analysis of the coffee market in Denver** https://bit.ly/3S5eXjs
+* **Investigating Netflix Movies and Guest Stars in The Office (ENG)** https://bit.ly/3OxMVKA
+* **The GitHub History of the Scala Language (ENG)** https://bit.ly/3vj1knk
+* **The Android App Market on Google Play (ENG)** https://bit.ly/3Bminsq
+* **Population Economic analysis of the coffee market in Denver (ENG)** https://bit.ly/3S5eXjs
+* **Igualdade Salarial Montgomery (PT-BR)** https://bit.ly/3Sakzcf
 
 ---
