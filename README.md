@@ -29,6 +29,6 @@ Here are the list of my projects:
 * **Population Economic analysis of the coffee market in Denver (ENG)** https://bit.ly/3S5eXjs
 * **Igualdade Salarial Montgomery (PT-BR)** https://bit.ly/3Sakzcf
 * **Data Mining Índices de Mercado (PT-BR)** https://bit.ly/3Ha3FH9
-
+* ** Portfolio Managment (ENG)** https://bit.ly/3MKLuv2
 
 ---
