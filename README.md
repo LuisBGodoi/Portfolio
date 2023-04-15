@@ -28,5 +28,7 @@ Here are the list of my projects:
 * **The Android App Market on Google Play (ENG)** https://bit.ly/3Bminsq
 * **Population Economic analysis of the coffee market in Denver (ENG)** https://bit.ly/3S5eXjs
 * **Igualdade Salarial Montgomery (PT-BR)** https://bit.ly/3Sakzcf
+* **Data Mining Índices de Mercado (PT-BR)**
+
 
 ---
